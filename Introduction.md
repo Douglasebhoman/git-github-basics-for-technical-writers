@@ -102,9 +102,9 @@ Even a simple workflow like this keeps documentation organized and versioned.
 
 After this introduction, explore the detailed sections:
 
-- `/docs/git-basics.md` – explains Git in depth
-- `/docs/github-basics.md` – explains GitHub in depth
-- `/docs/common-workflows.md` – step-by-step workflows for writers
-- `/docs/glossary.md` – more terminology
+- `/docs/Git-basics.md` – explains Git in depth
+- `/docs/Github-basics.md` – explains GitHub in depth
+- `/docs/Common-workflows.md` – step-by-step workflows for writers
+- `/docs/Glossary.md` – more terminology
 
 This guide provides the foundation to confidently start using Git and GitHub in documentation projects.
