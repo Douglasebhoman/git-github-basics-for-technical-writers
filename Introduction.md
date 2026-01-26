@@ -102,7 +102,7 @@ Even a simple workflow like this keeps documentation organized and versioned.
 
 After this introduction, explore the detailed sections:
 
-- `/docs/Git-basics.md` – explains Git in depth
+- `Git-basics.md` – explains Git in depth
 - `/docs/Github-basics.md` – explains GitHub in depth
 - `/docs/Common-workflows.md` – step-by-step workflows for writers
 - `/docs/Glossary.md` – more terminology
